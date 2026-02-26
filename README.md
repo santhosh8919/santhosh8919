@@ -36,8 +36,9 @@
 
 ## 📊 GitHub Stats
 
-![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhosh8919&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh8919&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhosh8919)
+
 
 ---
 
