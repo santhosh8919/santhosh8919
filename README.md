@@ -37,9 +37,13 @@
 ## 📊 GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhosh8919)
+### GitHub Stats
 
-
+![Repositories](https://img.shields.io/github/repos/santhosh8919?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/santhosh8919?style=for-the-badge&logo=github&logoColor=white)
+![Following](https://img.shields.io/github/following/santhosh8919?style=for-the-badge&logo=github&logoColor=white)
+![Top Language](https://img.shields.io/github/languages/top/santhosh8919?style=for-the-badge&logo=github&logoColor=white)
+![Last Commit](https://img.shields.io/github/last-commit/santhosh8919?style=for-the-badge&logo=github&logoColor=white)
 ---
 
 ## 🏆 GitHub Trophies
