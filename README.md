@@ -41,11 +41,12 @@
 
 ### GitHub Stats
 
-![GitHub Repos](https://img.shields.io/github/repo-size/santhosh8919?style=for-the-badge&logo=github)
+### GitHub Stats
+
+![GitHub Repositories](https://img.shields.io/github/repo-size/santhosh8919?style=for-the-badge&logo=github)
+![GitHub Public Repos](https://img.shields.io/github/public-repo-count/santhosh8919?style=for-the-badge&logo=github)
 ![GitHub Followers](https://img.shields.io/github/followers/santhosh8919?style=for-the-badge&logo=github)
 ![GitHub Following](https://img.shields.io/github/following/santhosh8919?style=for-the-badge&logo=github)
-![GitHub Top Language](https://img.shields.io/github/languages/top/santhosh8919?style=for-the-badge&logo=github)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/santhosh8919?style=for-the-badge&logo=github)
 ---
 
 ## 🏆 GitHub Trophies
