@@ -39,11 +39,13 @@
 
 ### GitHub Stats
 
-![Repositories](https://img.shields.io/github/repos/santhosh8919?style=for-the-badge&logo=github&logoColor=white)
-![Followers](https://img.shields.io/github/followers/santhosh8919?style=for-the-badge&logo=github&logoColor=white)
-![Following](https://img.shields.io/github/following/santhosh8919?style=for-the-badge&logo=github&logoColor=white)
-![Top Language](https://img.shields.io/github/languages/top/santhosh8919?style=for-the-badge&logo=github&logoColor=white)
-![Last Commit](https://img.shields.io/github/last-commit/santhosh8919?style=for-the-badge&logo=github&logoColor=white)
+### GitHub Stats
+
+![GitHub Repos](https://img.shields.io/github/repo-size/santhosh8919?style=for-the-badge&logo=github)
+![GitHub Followers](https://img.shields.io/github/followers/santhosh8919?style=for-the-badge&logo=github)
+![GitHub Following](https://img.shields.io/github/following/santhosh8919?style=for-the-badge&logo=github)
+![GitHub Top Language](https://img.shields.io/github/languages/top/santhosh8919?style=for-the-badge&logo=github)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/santhosh8919?style=for-the-badge&logo=github)
 ---
 
 ## 🏆 GitHub Trophies
